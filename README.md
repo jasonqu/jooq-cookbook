@@ -1,6 +1,10 @@
 # jooq-cookbook
 ## 使用JOOQ高效编写Java数据库应用
 
+> If your pictures aren’t good enough, you aren’t close enough. 
+
+> – Robert Capa
+
 围绕着关系代数构建的数据库系统是软件开发的核心之一，对很多软件工程来说，数据库建模就是数据模型的核心。
 
 为了使编程语言，尤其是面向对象的语言更好和关系数据模型进行配合，出现了大量的ORM框架。比较成熟的模式是在设计了数据库的schema之后，还需要构建相关的模型和DAO（Data Access Object）代码，来实现数据库模型和对象之间的映射（OR-Mapping）。
